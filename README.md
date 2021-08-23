@@ -1,4 +1,8 @@
-# Hi there 👋 Welcome to my GitHub
+# Hi there :wave: Welcome to my GitHub
+
+## About Me
+- :mortar_board: Graduated in General Engineering
+- :man_technologist: Studying to become a professional Full Stack Web Developer
 
 <!--
 **raphaelchalicarne/raphaelchalicarne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
