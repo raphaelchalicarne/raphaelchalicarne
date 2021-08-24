@@ -4,6 +4,10 @@
 - :mortar_board: Will graduate in General Engineering in Nov. 2021
 - :man_technologist: Currently in an end-of-study internship to become a professional Full Stack Web Developer
 
+## :handshake: Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-chalicarne/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.chalicarne@outlook.com)
+
 <!--
 **raphaelchalicarne/raphaelchalicarne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
