@@ -1,22 +1,29 @@
 # Hi there :wave: Welcome to my GitHub
 
 ## About Me
-- :mortar_board: Will graduate in General Engineering in Nov. 2021
-- :man_technologist: Currently in an end-of-study internship to become a professional Full Stack Web Developer
+:mortar_board: Will graduate in General Engineering in Nov. 2021
 
-## Tech Stack
-### Web technologies
+:man_technologist: Currently in an end-of-study internship to become a professional Full Stack Web Developer
+
+## Some of my projects
+:page_facing_up: My [online resume](https://raphaelchalicarne.github.io/) ([repo](https://github.com/raphaelchalicarne.github.io))
+
+:sun_behind_rain_cloud: A [weather app](https://raphaelchalicarne.github.io/weather-app) ([repo](https://github.com/raphaelchalicarne/weather-app))
+
+:satellite: A [blog](https://raphaelchalicarne.github.io/environnement-5g) about the environnemental impact of the 5G ([repo](https://github.com/raphaelchalicarne/environnement-5g))
+
+:bar_chart: A [dataviz project](https://observablehq.com/collection/@raphaelchalicarne/spotify) about the music listening habits in Europe and South America. ([repo](https://github.com/raphaelchalicarne/MOS5.5-dataviz))
+
+## :hammer_and_wrench: Tech Stack 
 ![HTML](https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1B7FDE?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E7BA15?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-### Frameworks
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
-
-### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
 
 ## :incoming_envelope: Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-chalicarne/)
