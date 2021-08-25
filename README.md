@@ -14,6 +14,8 @@
 
 :bar_chart: A [dataviz project](https://observablehq.com/collection/@raphaelchalicarne/spotify) about the music listening habits in Europe and South America. ([repo](https://github.com/raphaelchalicarne/MOS5.5-dataviz))
 
+:manual_wheelchair: An app designed as a POC to make tourism accessible to people with disabilities. ([repo](https://github.com/raphaelchalicarne/AccessHorizonsV0.1))
+
 ## :hammer_and_wrench: Tech Stack 
 ![HTML](https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1B7FDE?style=for-the-badge&logo=CSS3&logoColor=white)
