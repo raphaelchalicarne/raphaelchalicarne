@@ -3,7 +3,7 @@
 ## About Me
 :mortar_board: Will graduate in General Engineering in Nov. 2021
 
-:man_technologist: Currently in an end-of-study internship to become a professional Full Stack Web Developer
+:man_technologist: Software engineer at [Foodyssey](https://github.com/foodyssey/) since Apr. 2021
 
 ## Some of my projects
 :page_facing_up: My [online resume](https://raphaelchalicarne.github.io/) ([repo](https://github.com/raphaelchalicarne.github.io))
