@@ -1,7 +1,7 @@
 # Hi there :wave: Welcome to my GitHub
 
 ## About Me
-:mortar_board: Graduated in General Engineering in Nov. 2021
+:mortar_board: Graduated in [General Engineering](https://www.ec-lyon.fr/) in Nov. 2021
 
 :man_technologist: Software engineer at [Foodyssey](https://github.com/foodyssey/) since Apr. 2021
 
